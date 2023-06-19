@@ -1,0 +1,37 @@
+botões - arduino (
+gnd + resistor 10Ω;
+5v;
+
+botão 1 - digital 2 
+botão 2 - digital 3 
+botão 3 - digital 4 
+botão 4 - digital 5 
+botão 5 - digital 6 
+botão 6 - digital 8 
+botão 7 - digital 9 
+botão 8 - digital 12 
+botão 9 - digital 13 
+botão 10 - digital 7 
+botão troca de funçao - analogico A0
+)
+
+display mod i2c - arduino
+Gnd;
+5V;
+sda - analogico A4
+scl - analogico A5
+
+
+MP3 - Arduino (
+
+Gnd;
+5V;
+Rx + resistor 330Ω = digital 11;
+Tx - digital 10;
+)
+
+Alto-falante - MP3 (
+
+Gnd = speaker - ;
+Vcc - speaker + ;
+)

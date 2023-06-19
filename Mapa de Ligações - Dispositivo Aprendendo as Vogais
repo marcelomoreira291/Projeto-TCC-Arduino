@@ -1,0 +1,45 @@
+Botões - Arduino (
+
+Gnd + resistor 10Ω;
+5V;
+botão A - digital 2;
+botão E - digital 3;
+botão I - digital 4;
+botão O - digital 5;
+botão U - digital 6; 
+)
+
+relé - Arduino (
+
+Gnd;
+5V;
+relé A - digital 7;
+relé E - digital 8;
+relé I - digital 9;
+relé O - digital 12;
+relé U - digital 13; 
+)
+
+Led - relé (
+
+Gnd;
+5V;
+Led A - relé A;
+Led E - relé E;
+Led I - relé I;
+Led O - relé O;
+Led U - relé U;
+)
+
+MP3 - Arduino (
+
+Gnd;
+5V;
+Rx + resistor 330Ω = digital 11;
+Tx - digital 10;
+)
+
+Alto-falante - MP3 (
+
+Gnd = speaker - ;
+Vcc - speaker + ;
